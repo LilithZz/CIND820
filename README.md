@@ -17,7 +17,7 @@ https://continuing.ryerson.ca/public/category/courseCategoryCertificateProfile.d
 
 **Description of Project:**
 
->Open [Data_Analytics_Final_Project.ipynb](https://github.com/LilithZz/CIND820/blob/881f646d1cddb24d1a728a0d21000b66c2f3e107/CIND820.ipynb)
+>Open [Data_Analytics_Final_Project.ipynb](https://github.com/LilithZz/CIND820/blob/3501c7c3e68e610d2ea0a766698fdda7b821b61b/CIND820.ipynb)
 to view the code for the project. 
 >You can also see the [report-TBD]() and [presentation slides-TBD](TBD)<br /><br />
 
