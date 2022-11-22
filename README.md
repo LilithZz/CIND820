@@ -20,6 +20,18 @@ https://continuing.ryerson.ca/public/category/courseCategoryCertificateProfile.d
 
 >Open [Data_Analytics_Final_Project.ipynb](https://github.com/LilithZz/CIND820/blob/3501c7c3e68e610d2ea0a766698fdda7b821b61b/CIND820.ipynb)
 to view the code for the project. 
-<br />You can also see the [report-TBD]() and [presentation slides-TBD](TBD)<br /><br />
+<br />You can also see the [report-TBD]() and [presentation slides-TBD](TBD)
+<br />
 
-**Dataset contains these files:**
+**Data Preprocessing:**
+<br />
++ Finding missing value<br />
++ Finding outlier<br />
++ Bias or unbias<br />
+
+**Modelling:**
+<br />
++ logistic regression
++ random forest
++ KNN
++ 
