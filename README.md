@@ -18,9 +18,9 @@ https://continuing.ryerson.ca/public/category/courseCategoryCertificateProfile.d
 **Description of Project:**
 <br />The main topic of this research is about predicting clients who will have a term deposit by telemarketing strategy.A Portuguese bank marketing dataset from 2008 to 2103 is used during the research. 
 
->Open [Data_Analytics_Final_Project.ipynb](https://github.com/LilithZz/CIND820/blob/3501c7c3e68e610d2ea0a766698fdda7b821b61b/CIND820.ipynb)
+>Open [Data_Analytics_Final_Project.ipynb][(https://github.com/LilithZz/CIND820/blob/3501c7c3e68e610d2ea0a766698fdda7b821b61b/CIND820.ipynb)](https://github.com/LilithZz/CIND820/blob/1065aab19b748e654e4216c5b41c4ac1b8352ffb/code/code.html)
 to view the code for the project. 
-<br />You can also see the [report](CIND820 - Dec 05.pdf) and [presentation slides](CIND820 PPT.pdf)
+<br />You can also see the [report][(CIND820 - Dec 05.pdf)](https://github.com/LilithZz/CIND820/blob/1065aab19b748e654e4216c5b41c4ac1b8352ffb/CIND820%20-%20Dec%2005.pdf) and [presentation slides](https://github.com/LilithZz/CIND820/blob/5705ce243d6d850929f27b18c2f0426af63bd9a3/CIND820%20PPT.pdf)
 <br />
 
 **Data Preprocessing:**
